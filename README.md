@@ -27,3 +27,6 @@
 
 ## Báo cáo chi tiết
 Bạn có thể xem báo cáo chi tiết về trò chơi trên Overleaf qua liên kết sau: [Báo cáo Overleaf](https://www.overleaf.com/read/dsqphcbkpjhz#fe234a)
+
+## Báo cáo PDF
+Bạn có thể tải xuống bản báo cáo PDF tại đây: [Đồ án nhóm 6](https://github.com/sinh1011/gamefight/files/15306686/D._an_nhom_6.pdf)
