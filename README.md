@@ -34,4 +34,5 @@ Bạn có thể xem báo cáo chi tiết về dự án trên Overleaf qua liên 
 
 ## Báo cáo PDF
 
-Bạn có thể tải xuống bản báo cáo PDF tại đây: [Báo cáo PDF](https://github.com/sinh1011/gamefight/files/15306686/D._an_nhom_6.pdf)
+Bạn có thể tải xuống bản báo cáo PDF tại đây: [Báo cáo PDF](https://github.com/sinh1011/gamefight/files/15319029/D._an_nhom_6.pdf)
+
